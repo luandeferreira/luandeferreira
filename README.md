@@ -2,4 +2,4 @@
 
 ### Hey, I'm Luan Ferreira! 👋
 
-[luanferreira.me](https://luanferreira.me)
+[luanferreira.me](https://portfolio-henna-kappa-39.vercel.app/)
