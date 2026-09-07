@@ -1,5 +1,18 @@
-<img align="left" src="Loader cat.gif" alt="Loader Cat Animation" width="120" />
-
+<table>
+  <tr>
+    <!-- Coluna da Imagem -->
+    <td width="100" style="border: none;">
+      <img src="88cbb937020725.5732083000444.gif" alt="Loader Cat Animation" width="100" />
+    </td>
+    <!-- Espaço invisível de separação -->
+    <td width="30" style="border: none;"></td>
+    <!-- Coluna do Texto -->
+    <td style="border: none;" valign="middle">
+      
 ### Hey, I'm Luan Ferreira! 👋
 
-[luanferreira.me](https://portfolio-henna-kappa-39.vercel.app/)
+[luanferreira.me](https://vercel.app)
+
+    
+  </tr>
+</table>
